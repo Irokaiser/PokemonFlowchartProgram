@@ -9,6 +9,14 @@
    ],
    "Questions":[
       {
+         "Query":"Use core Pokemon?",
+         "Scoreboard":{
+            "Lapras":1,
+            "Kyogre":1,
+            "Zacian":1
+         }
+      },
+      {
          "Query":"Are you playing vs a Sun Team?",
          "Scoreboard":{
             "Lapras":1,
@@ -25,6 +33,49 @@
             "Raichu":1,
             "Kartana":1,
             "Landorus-T":-1
+         }
+      },
+	  {
+         "Query":"Are you playing vs a Trick Room?",
+         "Scoreboard":{
+            "Lapras":1,
+            "Kyogre":1,
+            "Kartana":1,
+            "Raichu":-1
+         }
+      },
+	  {
+         "Query":"Are you playing vs Prankster?",
+         "Scoreboard":{
+            "Raichu":1
+         }
+      },
+	  {
+         "Query":"Are you playing vs Electric?",
+         "Scoreboard":{
+            "Raichu":1,
+			"Landorus-T":1
+         }
+      },
+	  {
+         "Query":"Are you playing vs Grass?",
+         "Scoreboard":{
+            "Kartana":1
+         }
+      },
+	  {
+         "Query":"Are you playing vs Calyrex Shadow?",
+         "Scoreboard":{
+            "Kyogre":1,
+			"Lapras":1,
+         }
+      },
+	  {
+         "Query":"Are you playing vs Gastrodon?",
+         "Scoreboard":{
+            "Lapras":1,
+			"Kartana":1,
+			"Kyogre":-1
          }
       }
    ]

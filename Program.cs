@@ -13,3 +13,4 @@ else
 {
     Console.WriteLine("Invalid team and questions defined in " + filename);
 }
+Console.ReadLine();
