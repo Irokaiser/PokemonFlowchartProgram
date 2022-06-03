@@ -1,0 +1,31 @@
+{
+   "Team":[
+      "Lapras",
+      "Landorus-T",
+      "Zacian",
+      "Kyogre",
+      "Raichu",
+      "Kartana"
+   ],
+   "Questions":[
+      {
+         "Query":"Are you playing vs a Sun Team?",
+         "Scoreboard":{
+            "Lapras":1,
+            "Landorus-T":1,
+            "Kyogre":1,
+            "Zacian":-1,
+            "Kartana":-1
+         }
+      },
+      {
+         "Query":"Are you playing vs a Rain Team?",
+         "Scoreboard":{
+            "Lapras":1,
+            "Raichu":1,
+            "Kartana":1,
+            "Landorus-T":-1
+         }
+      }
+   ]
+}
